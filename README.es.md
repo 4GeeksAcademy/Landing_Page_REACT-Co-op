@@ -1,6 +1,8 @@
 # Hello World con la platilla de React
 
-> 🎥 Esta plantilla [cuenta con un video tutorial](https://youtu.be/oGpSVBsq7BA), para verlo haz clic aquí.
+> Equipo 2:
+Ernesto Caraballo: Navbar & Jumbotron
+Cesar Chavez: Cards & Footer
 
 Comienza a codificar una aplicación con React.
 
